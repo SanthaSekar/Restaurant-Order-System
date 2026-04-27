@@ -48,9 +48,9 @@ A Java-based OOP project that simulates a real-world restaurant system with mult
 
 ### Console Output Samples
 
-![Output 1](screenshots/output-1.png)
-![Output 2](screenshots/output-2.png)
-![Output 3](screenshots/output-3.png)
+![Output 1](screenshots/output-sample-1.png)
+![Output 2](screenshots/output-sample-2.png)
+![Output 3](screenshots/output-sample-3.png)
 
 ## Power BI Dashboard
 
