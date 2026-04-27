@@ -1,0 +1,1438 @@
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 25-04-2026 19:39:06
+ORDER TYPE  : Dine-In (Table #2)
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Mango Lassi              60.00
+Veg Soup                 60.00
+Spaghetti Bolognese      300.00
+----------------------------------------
+Subtotal                 420.00
+Service Charge (10%)     42.00
+GRAND TOTAL              412.34
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 25-04-2026 19:39:21
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 26-04-2026 21:46:35
+ORDER TYPE  : Dine-In (Table #3)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Butter Chicken           250.00
+Spaghetti Bolognese      300.00
+----------------------------------------
+Subtotal                 630.00
+Service Charge (10%)     63.00
+GRAND TOTAL              727.65
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 26-04-2026 21:47:16
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Butter Chicken           250.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 650.00
+Packaging Fee            30.00
+GRAND TOTAL              606.90
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 26-04-2026 21:47:43
+ORDER TYPE  : Delivery → abc city
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Paneer Butter Masala     220.00
+Veg Fried Rice           180.00
+----------------------------------------
+Subtotal                 520.00
+Delivery Fee (5.0 km × Rs.10) 50.00
+GRAND TOTAL              478.80
+========================================
+
+========================================
+ORDER ID    : 1004
+DATE/TIME   : 26-04-2026 21:47:50
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 26-04-2026 21:58:33
+ORDER TYPE  : Dine-In (Table #2)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Fresh Lime Soda          55.00
+Masala Chai              30.00
+Fresh Lime Soda          55.00
+Cold Coffee              80.00
+----------------------------------------
+Subtotal                 220.00
+Service Charge (10%)     22.00
+GRAND TOTAL              242.00
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 26-04-2026 22:02:29
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Paneer Butter Masala     220.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 660.00
+Service Charge (10%)     66.00
+GRAND TOTAL              762.30
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 26-04-2026 22:25:34
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Paneer Butter Masala     220.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 650.00
+Service Charge (10%)     65.00
+GRAND TOTAL              638.14
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 26-04-2026 22:25:38
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 26-04-2026 22:38:28
+ORDER TYPE  : Dine-In (Table #6)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Veg Soup                 60.00
+Spaghetti Bolognese      300.00
+----------------------------------------
+Subtotal                 360.00
+Service Charge (10%)     36.00
+GRAND TOTAL              415.80
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 26-04-2026 22:38:44
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Veg Soup                 60.00
+Paneer Butter Masala     220.00
+Paneer Tikka             110.00
+----------------------------------------
+Subtotal                 390.00
+Packaging Fee            30.00
+GRAND TOTAL              374.85
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 26-04-2026 22:38:46
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 10:05:21
+ORDER TYPE  : Dine-In (Table #7)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Spicy Chicken Wings      120.00
+Paneer Tikka             110.00
+----------------------------------------
+Subtotal                 310.00
+Service Charge (10%)     31.00
+GRAND TOTAL              358.05
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 10:05:35
+ORDER TYPE  : Dine-In (Table #4)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Spaghetti Bolognese      300.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 740.00
+Service Charge (10%)     74.00
+GRAND TOTAL              814.00
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 10:05:54
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Butter Chicken           250.00
+Veg Fried Rice           180.00
+Veg Soup                 60.00
+----------------------------------------
+Subtotal                 490.00
+Packaging Fee            30.00
+GRAND TOTAL              546.00
+========================================
+
+========================================
+ORDER ID    : 1004
+DATE/TIME   : 27-04-2026 10:06:08
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Paneer Butter Masala     220.00
+Spaghetti Bolognese      300.00
+----------------------------------------
+Subtotal                 630.00
+Packaging Fee            30.00
+GRAND TOTAL              660.00
+========================================
+
+========================================
+ORDER ID    : 1005
+DATE/TIME   : 27-04-2026 10:06:25
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Spicy Chicken Wings      120.00
+Crispy Spring Rolls      80.00
+----------------------------------------
+Subtotal                 310.00
+Packaging Fee            30.00
+GRAND TOTAL              303.45
+========================================
+
+========================================
+ORDER ID    : 1006
+DATE/TIME   : 27-04-2026 10:06:36
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spaghetti Bolognese      300.00
+Butter Chicken           250.00
+----------------------------------------
+Subtotal                 550.00
+Packaging Fee            30.00
+GRAND TOTAL              493.00
+========================================
+
+========================================
+ORDER ID    : 1007
+DATE/TIME   : 27-04-2026 10:06:50
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Veg Soup                 60.00
+Paneer Butter Masala     220.00
+Butter Chicken           250.00
+----------------------------------------
+Subtotal                 530.00
+Packaging Fee            30.00
+GRAND TOTAL              470.40
+========================================
+
+========================================
+ORDER ID    : 1008
+DATE/TIME   : 27-04-2026 10:07:03
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Spaghetti Bolognese      300.00
+----------------------------------------
+Subtotal                 410.00
+Packaging Fee            30.00
+GRAND TOTAL              374.00
+========================================
+
+========================================
+ORDER ID    : 1009
+DATE/TIME   : 27-04-2026 10:07:28
+ORDER TYPE  : Delivery → Chennai
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Spicy Chicken Wings      120.00
+Paneer Butter Masala     220.00
+----------------------------------------
+Subtotal                 420.00
+Delivery Fee (5.0 km Rs.10) 50.00
+GRAND TOTAL              376.00
+========================================
+
+========================================
+ORDER ID    : 1010
+DATE/TIME   : 27-04-2026 10:07:33
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 10:16:06
+ORDER TYPE  : Dine-In (Table #9)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Spicy Chicken Wings      120.00
+Paneer Tikka             110.00
+----------------------------------------
+Subtotal                 310.00
+Service Charge (10%)     31.00
+GRAND TOTAL              358.05
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 10:16:22
+ORDER TYPE  : Delivery → chennai
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Butter Chicken           250.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 680.00
+Delivery Fee (9.0 km Rs.10) 90.00
+GRAND TOTAL              646.80
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 10:16:31
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Paneer Butter Masala     220.00
+Veg Soup                 60.00
+----------------------------------------
+Subtotal                 390.00
+Packaging Fee            30.00
+GRAND TOTAL              374.85
+========================================
+
+========================================
+ORDER ID    : 1004
+DATE/TIME   : 27-04-2026 10:16:44
+ORDER TYPE  : Dine-In (Table #7)
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Spicy Chicken Wings      120.00
+Veg Fried Rice           180.00
+----------------------------------------
+Subtotal                 380.00
+Service Charge (10%)     38.00
+GRAND TOTAL              355.30
+========================================
+
+========================================
+ORDER ID    : 1005
+DATE/TIME   : 27-04-2026 10:16:47
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 10:21:40
+ORDER TYPE  : Dine-In (Table #8)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Spicy Chicken Wings      120.00
+Veg Soup                 60.00
+Cold Coffee              80.00
+----------------------------------------
+Subtotal                 370.00
+Service Charge (10%)     37.00
+GRAND TOTAL              427.35
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 10:21:51
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+----------------------------------------
+Subtotal                 120.00
+Packaging Fee            30.00
+GRAND TOTAL              126.00
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 10:22:01
+ORDER TYPE  : Dine-In (Table #2)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Veg Fried Rice           180.00
+----------------------------------------
+Subtotal                 180.00
+Service Charge (10%)     18.00
+GRAND TOTAL              198.00
+========================================
+
+========================================
+ORDER ID    : 1004
+DATE/TIME   : 27-04-2026 10:22:29
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Cold Coffee              80.00
+----------------------------------------
+Subtotal                 190.00
+Packaging Fee            30.00
+GRAND TOTAL              196.35
+========================================
+
+========================================
+ORDER ID    : 1005
+DATE/TIME   : 27-04-2026 10:22:33
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 10:28:58
+ORDER TYPE  : Dine-In (Table #3)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Spicy Chicken Wings      120.00
+Paneer Tikka             110.00
+----------------------------------------
+Subtotal                 310.00
+Service Charge (10%)     31.00
+GRAND TOTAL              358.05
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 10:29:08
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Paneer Tikka             110.00
+Veg Soup                 60.00
+----------------------------------------
+Subtotal                 290.00
+Packaging Fee            30.00
+GRAND TOTAL              285.60
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 10:29:26
+ORDER TYPE  : Delivery → chennai
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Veg Fried Rice           180.00
+Spaghetti Bolognese      300.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 800.00
+Delivery Fee (90.0 km Rs.10) 900.00
+GRAND TOTAL              1428.00
+========================================
+
+========================================
+ORDER ID    : 1004
+DATE/TIME   : 27-04-2026 10:29:40
+ORDER TYPE  : Dine-In (Table #87)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Crispy Spring Rolls      80.00
+Cold Coffee              80.00
+----------------------------------------
+Subtotal                 270.00
+Service Charge (10%)     27.00
+GRAND TOTAL              237.60
+========================================
+
+========================================
+ORDER ID    : 1005
+DATE/TIME   : 27-04-2026 10:29:42
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 11:19:55
+ORDER TYPE  : Dine-In (Table #1)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Cold Coffee              80.00
+Fresh Lime Soda          55.00
+----------------------------------------
+Subtotal                 135.00
+Service Charge (10%)     13.50
+GRAND TOTAL              155.93
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 11:20:05
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Veg Soup                 60.00
+Veg Fried Rice           180.00
+----------------------------------------
+Subtotal                 360.00
+Packaging Fee            30.00
+GRAND TOTAL              348.08
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 11:20:26
+ORDER TYPE  : Delivery chennai
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Cold Coffee              80.00
+Spicy Chicken Wings      120.00
+Veg Soup                 60.00
+Fresh Lime Soda          55.00
+----------------------------------------
+Subtotal                 315.00
+Delivery Fee (90.0 km Rs.10) 900.00
+GRAND TOTAL              1020.60
+========================================
+
+========================================
+ORDER ID    : 1004
+DATE/TIME   : 27-04-2026 11:20:37
+ORDER TYPE  : Dine-In (Table #2)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Veg Fried Rice           180.00
+Spaghetti Bolognese      300.00
+----------------------------------------
+Subtotal                 560.00
+Service Charge (10%)     56.00
+GRAND TOTAL              616.00
+========================================
+
+========================================
+ORDER ID    : 1005
+DATE/TIME   : 27-04-2026 11:20:44
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 11:23:42
+ORDER TYPE  : Dine-In (Table #1)
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Cold Coffee              80.00
+Spicy Chicken Wings      120.00
+Fresh Lime Soda          55.00
+----------------------------------------
+Subtotal                 255.00
+Service Charge (10%)     25.50
+GRAND TOTAL              250.35
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 11:23:45
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 11:26:50
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Cold Coffee              80.00
+Fresh Lime Soda          55.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 455.00
+Packaging Fee            30.00
+GRAND TOTAL              407.40
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 11:26:52
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 11:28:29
+ORDER TYPE  : Dine-In (Table #1)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Fresh Lime Soda          55.00
+Cold Coffee              80.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 195.00
+Service Charge (10%)     19.50
+GRAND TOTAL              225.23
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 11:28:40
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Veg Fried Rice           180.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 870.00
+Packaging Fee            30.00
+GRAND TOTAL              765.00
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 11:29:02
+ORDER TYPE  : Delivery Trichy
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Veg Soup                 60.00
+Veg Fried Rice           180.00
+----------------------------------------
+Subtotal                 240.00
+Delivery Fee (365.0 km Rs.10) 3650.00
+GRAND TOTAL              3890.00
+========================================
+
+========================================
+ORDER ID    : 1004
+DATE/TIME   : 27-04-2026 11:29:05
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 11:29:33
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Spicy Chicken Wings      120.00
+----------------------------------------
+Subtotal                 240.00
+Packaging Fee            30.00
+GRAND TOTAL              240.98
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 11:29:49
+ORDER TYPE  : Delivery Nellai
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Butter Masala     220.00
+Spaghetti Bolognese      300.00
+----------------------------------------
+Subtotal                 520.00
+Delivery Fee (440.0 km Rs.10) 4400.00
+GRAND TOTAL              3936.00
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 11:29:51
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 11:44:17
+ORDER TYPE  : Dine-In (Table #17)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Paneer Tikka             110.00
+Paneer Butter Masala     220.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 730.00
+Service Charge (10%)     73.00
+GRAND TOTAL              843.15
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 11:44:26
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Spaghetti Bolognese      300.00
+----------------------------------------
+Subtotal                 670.00
+Packaging Fee            30.00
+GRAND TOTAL              624.75
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 11:44:47
+ORDER TYPE  : Delivery Pondy
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Veg Fried Rice           180.00
+----------------------------------------
+Subtotal                 290.00
+Delivery Fee (30.0 km Rs.10) 300.00
+GRAND TOTAL              495.60
+========================================
+
+========================================
+ORDER ID    : 1004
+DATE/TIME   : 27-04-2026 11:44:54
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 11:47:33
+ORDER TYPE  : Dine-In (Table #2)
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Veg Soup                 60.00
+Paneer Butter Masala     220.00
+----------------------------------------
+Subtotal                 400.00
+Service Charge (10%)     40.00
+GRAND TOTAL              392.70
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 11:47:41
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 11:50:08
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Fresh Lime Soda          55.00
+Cold Coffee              80.00
+Butter Chicken           250.00
+Grilled Fish             320.00
+Veg Fried Rice           180.00
+----------------------------------------
+Subtotal                 885.00
+Packaging Fee            30.00
+GRAND TOTAL              768.60
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 11:50:10
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 11:52:47
+ORDER TYPE  : Delivery Chennai
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Paneer Butter Masala     220.00
+Veg Fried Rice           180.00
+Spaghetti Bolognese      300.00
+----------------------------------------
+Subtotal                 810.00
+Delivery Fee (3.0 km Rs.10) 30.00
+GRAND TOTAL              749.70
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 11:52:51
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 11:54:43
+ORDER TYPE  : Delivery Chennai
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Paneer Tikka             110.00
+Veg Soup                 60.00
+Butter Chicken           250.00
+Paneer Butter Masala     220.00
+Veg Fried Rice           180.00
+Spaghetti Bolognese      300.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 1560.00
+Delivery Fee (5.0 km Rs.10) 50.00
+GRAND TOTAL              1610.00
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 11:54:45
+ORDER TYPE  : Dine-In (Table #5)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Mango Lassi              60.00
+----------------------------------------
+Subtotal                 430.00
+Service Charge (10%)     43.00
+GRAND TOTAL              397.32
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 14:17:06
+ORDER TYPE  : Dine-In (Table #1)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Spicy Chicken Wings      120.00
+Paneer Tikka             110.00
+----------------------------------------
+Subtotal                 310.00
+Service Charge (10%)     31.00
+GRAND TOTAL              358.05
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 14:17:28
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Veg Soup                 60.00
+Butter Chicken           250.00
+Paneer Butter Masala     220.00
+----------------------------------------
+Subtotal                 530.00
+Packaging Fee            30.00
+GRAND TOTAL              499.80
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 14:17:46
+ORDER TYPE  : Delivery Chennai
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Veg Fried Rice           180.00
+Spaghetti Bolognese      300.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 910.00
+Delivery Fee (50.0 km Rs.10) 500.00
+GRAND TOTAL              1128.00
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 14:19:05
+ORDER TYPE  : Delivery Trichy
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Veg Fried Rice           180.00
+Fresh Lime Soda          55.00
+----------------------------------------
+Subtotal                 345.00
+Delivery Fee (354.0 km Rs.10) 3540.00
+GRAND TOTAL              3467.36
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 14:19:28
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Cold Coffee              80.00
+Veg Fried Rice           180.00
+Butter Chicken           250.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 830.00
+Packaging Fee            30.00
+GRAND TOTAL              903.00
+========================================
+
+========================================
+ORDER ID    : 1006
+DATE/TIME   : 27-04-2026 14:19:56
+ORDER TYPE  : Dine-In (Table #12)
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Paneer Butter Masala     220.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 990.00
+Service Charge (10%)     99.00
+GRAND TOTAL              914.76
+========================================
+
+========================================
+ORDER ID    : 1007
+DATE/TIME   : 27-04-2026 14:20:04
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Veg Soup                 60.00
+Butter Chicken           250.00
+Fresh Lime Soda          55.00
+----------------------------------------
+Subtotal                 365.00
+Packaging Fee            30.00
+GRAND TOTAL              331.80
+========================================
+
+========================================
+ORDER ID    : 1008
+DATE/TIME   : 27-04-2026 14:20:20
+ORDER TYPE  : Delivery Chennai
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Butter Chicken           250.00
+Paneer Butter Masala     220.00
+Veg Fried Rice           180.00
+Cold Coffee              80.00
+----------------------------------------
+Subtotal                 730.00
+Delivery Fee (34.0 km Rs.10) 340.00
+GRAND TOTAL              909.50
+========================================
+
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 14:50:29
+ORDER TYPE  : Dine-In (Table #3)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Butter Chicken           250.00
+Paneer Butter Masala     220.00
+Veg Soup                 60.00
+----------------------------------------
+Subtotal                 530.00
+Service Charge (10%)     53.00
+GRAND TOTAL              612.15
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 14:50:41
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Paneer Tikka             110.00
+Cold Coffee              80.00
+Paneer Tikka             110.00
+Fresh Lime Soda          55.00
+Veg Soup                 60.00
+----------------------------------------
+Subtotal                 415.00
+Packaging Fee            30.00
+GRAND TOTAL              373.80
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 14:51:03
+ORDER TYPE  : Delivery Canada
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Butter Chicken           250.00
+Veg Fried Rice           180.00
+Butter Chicken           250.00
+Fresh Lime Soda          55.00
+----------------------------------------
+Subtotal                 855.00
+Delivery Fee (20.0 km Rs.10) 200.00
+GRAND TOTAL              896.75
+========================================
+
+========================================
+ORDER ID    : 1004
+DATE/TIME   : 27-04-2026 14:51:19
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spicy Chicken Wings      120.00
+Cold Coffee              80.00
+Crispy Spring Rolls      80.00
+Paneer Tikka             110.00
+Fresh Lime Soda          55.00
+Veg Soup                 60.00
+Butter Chicken           250.00
+----------------------------------------
+Subtotal                 755.00
+Packaging Fee            30.00
+GRAND TOTAL              667.25
+========================================
+
+========================================
+ORDER ID    : 1005
+DATE/TIME   : 27-04-2026 14:51:38
+ORDER TYPE  : Delivery Australia
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Fresh Lime Soda          55.00
+Paneer Tikka             110.00
+Veg Soup                 60.00
+Butter Chicken           250.00
+Veg Fried Rice           180.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 975.00
+Delivery Fee (234.0 km Rs.10) 2340.00
+GRAND TOTAL              2784.60
+========================================
+
