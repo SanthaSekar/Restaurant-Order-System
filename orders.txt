@@ -1436,3 +1436,56 @@ Delivery Fee (234.0 km Rs.10) 2340.00
 GRAND TOTAL              2784.60
 ========================================
 
+========================================
+ORDER ID    : 1001
+DATE/TIME   : 27-04-2026 21:26:12
+ORDER TYPE  : Dine-In (Table #1)
+STATUS      : PAID
+BILLING     : Normal Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Crispy Spring Rolls      80.00
+Spicy Chicken Wings      120.00
+Paneer Tikka             110.00
+----------------------------------------
+Subtotal                 310.00
+Service Charge (10%)     31.00
+GRAND TOTAL              358.05
+========================================
+
+========================================
+ORDER ID    : 1002
+DATE/TIME   : 27-04-2026 21:27:07
+ORDER TYPE  : Takeaway
+STATUS      : PAID
+BILLING     : Discount Billing (15% off)
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Veg Soup                 60.00
+Butter Chicken           250.00
+Paneer Butter Masala     220.00
+----------------------------------------
+Subtotal                 530.00
+Packaging Fee            30.00
+GRAND TOTAL              499.80
+========================================
+
+========================================
+ORDER ID    : 1003
+DATE/TIME   : 27-04-2026 21:29:47
+ORDER TYPE  : Delivery Chennai
+STATUS      : PAID
+BILLING     : Happy Hour Billing
+----------------------------------------
+ITEM                     PRICE (Rs.)
+----------------------------------------
+Spaghetti Bolognese      300.00
+Grilled Fish             320.00
+----------------------------------------
+Subtotal                 620.00
+Delivery Fee (50.0 km Rs.10) 500.00
+GRAND TOTAL              940.80
+========================================
+

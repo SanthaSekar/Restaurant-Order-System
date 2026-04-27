@@ -38,5 +38,16 @@ A Java-based OOP project that simulates a real-world restaurant system with mult
 * orders.txt → formatted bill records
 * orders.csv → structured data for Power BI
 
+## Screenshots
+
+### Power BI Dashboard
+![Dashboard](screenshots/Power Bi Dashboard.png)
+
+### CSV Data Output
+![CSV](screenshots/Excel data.png)
+
+### Console Output
+![Console](screenshots/console-output.png)
+
 ## Author
 Santhakumari S
